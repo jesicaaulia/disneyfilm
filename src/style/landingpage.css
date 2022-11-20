@@ -1,0 +1,46 @@
+.myBg{
+    height: 100vh;
+    background: url("./assets/images/bg/disney.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 3px black;
+}
+
+.trending{
+    height: auto;
+    background: url("./assets/images/bg/prncss.jpg");
+    background-size: cover;
+}
+
+.princess{
+    height: auto;
+    background: url("./assets/images/bg/tangled.jpg");
+    background-size: cover;
+}
+
+.movieWrapper{
+    
+}
+
+.movieImage{
+    height: auto;
+    background-color: black;
+    margin: 5px;
+}
+
+.images{
+    height: 400px;
+    width: auto;
+}
